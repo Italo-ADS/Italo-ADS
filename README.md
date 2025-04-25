@@ -2,9 +2,7 @@
 Sou o Italo
 
 <h1>Uninorte</h1>
-<!--
 **Italo-ADS/Italo-ADS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -17,3 +15,5 @@ Sou o Italo
 <br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </h1>
+
+
